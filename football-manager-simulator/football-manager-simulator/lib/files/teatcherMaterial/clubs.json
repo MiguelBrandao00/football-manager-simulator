@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Sport Lisboa e Benfica",
+    "players": [],
+    "code": "SLB",
+    "Country": "Portugal",
+    "foundedYear": 1904,
+    "stadiumName": "Estádio da Luz",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/89/Sport_Lisboa_e_Benfica_logo.svg"
+  },
+  {
+    "name": "Futebol Clube do Porto",
+    "players": [],
+    "code": "FCP",
+    "Country": "Portugal",
+    "foundedYear": 1893,
+    "stadiumName": "Estádio do Dragão",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg"
+  },
+  {
+    "name": "Sporting Clube de Portugal",
+    "players": [],
+    "code": "SCP",
+    "Country": "Portugal",
+    "foundedYear": 1906,
+    "stadiumName": "Estádio José Alvalade",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Sporting_Clube_de_Portugal_logo.svg"
+  },
+  {
+    "name": "Vitória Sport Clube",
+    "players": [],
+    "code": "VSC",
+    "Country": "Portugal",
+    "foundedYear": 1922,
+    "stadiumName": "Estádio D. Afonso Henriques",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/SC_Braga.svg"
+  }
+]
+
+   
+  
